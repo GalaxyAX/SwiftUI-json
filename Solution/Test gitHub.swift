@@ -8,5 +8,5 @@
 import Foundation
 
 struct Test {
-    var name: String = "Andrii success with Apple"
+    var name: String = "Andrii success with Apple and MacBook for sure!"
 }
